@@ -9,6 +9,11 @@ export default [
     route: 'second-page',
     icon: 'FileIcon',
   },
+    {
+        title: 'Login 2',
+        route: 'second-page',
+        icon: 'FileIcon',
+    },
 
     {
         header: 'Apps & Pages',

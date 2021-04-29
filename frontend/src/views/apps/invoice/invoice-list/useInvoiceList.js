@@ -16,7 +16,7 @@ export default function useInvoicesList() {
     { key: 'id', label: '#', sortable: true },
     { key: 'invoiceStatus', sortable: true },
     { key: 'client', sortable: true },
-    { key: 'total', sortable: true, formatter: val => `$${val}` },
+    { key: 'total', sortable: true, formatter: val => `${val} KM` },
     { key: 'issuedDate', sortable: true },
     { key: 'balance', sortable: true },
     { key: 'actions' },

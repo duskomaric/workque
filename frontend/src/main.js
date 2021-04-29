@@ -10,8 +10,14 @@ import App from './App.vue'
 import './global-components'
 
 // 3rd party plugins
+import '@axios'
+import '@/libs/acl'
 import '@/libs/portal-vue'
+import '@/libs/clipboard'
 import '@/libs/toastification'
+import '@/libs/sweet-alerts'
+import '@/libs/vue-select'
+import '@/libs/tour'
 
 // Axios Mock Adapter
 import '@/@fake-db/db'

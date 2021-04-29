@@ -116,5 +116,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="vuexy-bootstrap-vue-laravel-full-version" />
+    <orderEntry type="module" module-name="depozitron-backoffice" />
   </component>
 </module>
